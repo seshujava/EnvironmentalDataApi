@@ -1,0 +1,18 @@
+Environmental Data Sample
+Date: 2023-01-30
+Location: City A
+Temperature: 25°C
+Humidity: 60%
+Air Quality: Good
+
+Date: 2023-01-30
+Location: City B
+Temperature: 22°C
+Humidity: 55%
+Air Quality: Moderate
+
+Date: 2023-01-30
+Location: City c
+Temperature: 23°C
+Humidity: 57%
+Air Quality: Moderate
